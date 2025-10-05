@@ -198,4 +198,4 @@ Potential improvements for production use:
 
 
 
-**Made with love by Anika Boyd**
+**Made with ♥︎ by Anika Boyd**
